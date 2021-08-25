@@ -12,6 +12,7 @@ def teste_palindromo(frase):
     frase_invertida = ''
 
     for c in frase[::-1]:
+        print(c)
         frase_invertida += c
 
     if(frase == frase_invertida):
