@@ -16,3 +16,7 @@ Desafio 51: Desenvolva um programa que leia o primeiro termo e a razão de uma P
 Desafio 52: Faça um programa que leia um número inteiro e diga se ele é ou não um número primo
 
 Desafio 53: Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+
+Desafio 54: Crie um programa que leia o ano de nascimento de sete pessoas.No final, mostre quantas pessoas ainda não atingiram a maior idade e quantas já são maiores, considere a maioridade 21 anos
+
+Desafio 55: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos
