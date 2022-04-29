@@ -4,8 +4,8 @@
 #
 from time import sleep
 
-for contagem in range(11,0,-1):
+for contagem in range(10, -1, -1):
     
-    print(contagem-1)
+    print(contagem)
     sleep(1)
 print("💣")
